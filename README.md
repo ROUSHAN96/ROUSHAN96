@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)]
+[MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)
 <h1 align="center">Hi 👋, I'm ROUSHAN RAJ</h1>
 <h3 align="center">A passionate Full Stack WebDeveloper from India</h3>
 <img align=“right” alt=“Coding” width=“400” src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif”>
