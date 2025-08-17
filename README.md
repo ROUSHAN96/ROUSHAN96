@@ -8,12 +8,12 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roushan96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/roushan96?tab=followers">
-    <img src="https://img.shields.io/github/followers/roushan96?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ROUSHAN96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ROUSHAN96?tab=followers">
+    <img src="https://img.shields.io/github/followers/ROUSHAN96?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=roushan96" target="_blank">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=roushan96" alt="Visitors Badge" />
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=ROUSHAN96" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ROUSHAN96" alt="Visitors Badge" />
   </a>
 </p>
 
@@ -57,12 +57,12 @@
 ### 🚀 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roushan96&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roushan96&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ROUSHAN96&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=ROUSHAN96&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roushan96&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROUSHAN96&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roushan96&theme=onedark&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ROUSHAN96&theme=onedark&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ### 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roushan96&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROUSHAN96&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -86,7 +86,11 @@
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/ROUSHAN96/ROUSHAN96/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROUSHAN96/ROUSHAN96/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ROUSHAN96/ROUSHAN96/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ROUSHAN96/ROUSHAN96/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
